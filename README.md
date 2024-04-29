@@ -7,11 +7,9 @@ Junior Frontend Developer
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrydzin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uładź-hrydzin-49901890/)
 
-
 - 🌱 github statistics ...
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uladek)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uladek)](https://github.com/uladek/github-readme-stats)
 
 
 
