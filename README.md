@@ -7,11 +7,9 @@ Junior Frontend Developer
 * **Enail:** <hrydzin@gmail.com>
 * **Discord:** @hrydzin 
 * **GitHub:** [uladek](https://github.com/uladek)
-* **Linkedin:** [Uładź Hrydzin](https://www.linkedin.com/in/uładź-hrydzin-49901890/)
 
-![LinkedI](https://www.linkedin.com/in/uładź-hrydzin-49901890/)
-![Name](link)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uładź-hrydzin-49901890/)
 
 
 <!--
