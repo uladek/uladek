@@ -8,9 +8,12 @@ Junior Frontend Developer
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uładź-hrydzin-49901890/)
 
 - 🌱 github statistics ...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uladek&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uladek&layout=donut)](https://github.com/uladek/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uladek)](https://github.com/uladek/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uladek)](https://github.com/uladek/github-readme-stats)
+
 
 
 
