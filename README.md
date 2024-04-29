@@ -1,15 +1,15 @@
 ### Hi there, I'm Uladzimir 👋
 Junior Frontend Developer
 
-##### _Contacts_:
+- 📫 How to reach me:
 
-
-* **Enail:** <hrydzin@gmail.com>
-* **Discord:** @hrydzin 
-* **GitHub:** [uladek](https://github.com/uladek)
-
-
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_профиль)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrydzin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uładź-hrydzin-49901890/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/hrydzin)
+
+
+
 
 
 <!--
