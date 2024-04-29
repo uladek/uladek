@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Uladzimir 👋
+Junior Frontend Developer
+
+##### _Contacts_:
+
+
+* **Enail:** <hrydzin@gmail.com>
+* **Discord:** @hrydzin 
+* **GitHub:** [uladek](https://github.com/uladek)
+* **Linkedin:** [Uładź Hrydzin](https://www.linkedin.com/in/uładź-hrydzin-49901890/)
 
 <!--
 **uladek/uladek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
