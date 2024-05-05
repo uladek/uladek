@@ -7,6 +7,9 @@ Junior Frontend Developer
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrydzin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uładź-hrydzin-49901890/)
 
+
+![CV](https://uladek.github.io/rsschool-cv/)
+
 - 🌱 github statistics ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uladek)](https://github.com/uladek/github-readme-stats)
